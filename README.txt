@@ -2,9 +2,9 @@ PROJECT REPORT
 PROJECT ASSESSMENT — LIBRARY MANAGEMENT SYSTEM
 JAVA TRAINING • AIMT
 
-Student Name: ______________________________
-Class / Section: ____________________________
-Roll Number: _______________________________
+Student Name: Gyan Prakash
+Class / Section: B.Tech CSE (AI/ML), 2nd Year, 2E
+Roll Number: 2503631530019
 College: Ambalika Institute of Management and Technology (AIMT)
 
 1. PROJECT OBJECTIVE
